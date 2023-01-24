@@ -1,0 +1,2 @@
+Lots of squares,000001,Rubik Cude,10.0
+More squares,000002,Minecraft,25.0
